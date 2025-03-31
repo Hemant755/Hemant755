@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hemant Pasare
+- 👋 Hi, I’m Hemant Pasare
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science
